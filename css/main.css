@@ -29,8 +29,8 @@ body, html {
     left: 16px;
   }
   .topleft img {
-    width:45px;
-    height:45px;  
+    width:30px;
+    height:30px;  
   }
   /* Position text in the bottom-left corner */
   .bottomleft {
