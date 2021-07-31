@@ -28,10 +28,9 @@ body, html {
     top: 0;
     left: 16px;
   }
-  .topleft p {
-      font-size: 35px;
-      font-weight: bold;
-      font-family: Arial, Helvetica, sans-serif;
+  .topleft img {
+    width:45px;
+    height:45px;  
   }
   /* Position text in the bottom-left corner */
   .bottomleft {
